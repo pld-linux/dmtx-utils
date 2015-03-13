@@ -10,6 +10,7 @@ URL:		http://www.libdmtx.org/
 BuildRequires:	libdmtx-devel
 BuildRequires:	pkgconfig
 BuildRequires:	rpmbuild(macros) >= 1.219
+Obsoletes:	libdmtx-utils
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
