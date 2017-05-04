@@ -1,7 +1,7 @@
 Summary:	Utilities for libdmtx
 Name:		dmtx-utils
 Version:	0.7.4
-Release:	2
+Release:	3
 License:	LGPL v2+
 Group:		Applications/System
 Source0:	http://downloads.sourceforge.net/libdmtx/%{name}-%{version}.tar.bz2
